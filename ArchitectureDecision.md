@@ -107,3 +107,15 @@ Example:
 RepositoriesViewModel(
     repositoryService: repositoryService
 )
+
+
+# AI Usage
+
+AI tools were used as a support during development for:
+
+- Reviewing architecture decisions and improving code structure
+- Getting suggestions for MVVM, dependency injection, and SOLID principles
+- Reviewing possible improvements for readability and maintainability
+- Helping identify edge cases and testing considerations
+
+All final implementation decisions, code changes, and architectural choices were reviewed and adapted based on the project requirements.
