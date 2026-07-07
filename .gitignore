@@ -1,2 +1,59 @@
+# macOS
 .DS_Store
+
+# Xcode
+build/
+DerivedData/
+
+# User settings
+*.xcuserstate
 xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Archives
+*.xcarchive
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.tmp
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+
+# Coverage
+*.profdata
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Tuist
+Tuist/.build
+
+# Mint
+.mint
+
+# SwiftPM Xcode
+Package.resolved
